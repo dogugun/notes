@@ -101,61 +101,61 @@ for i in range(len(input_cols)):
 ```
 
 
-![png](plots\output_2_0.png)
+![png](plots/output_2_0.png)
 
 
 
-![png](plots\output_2_1.png)
+![png](plots/output_2_1.png)
 
 
 
-![png](plots\output_2_2.png)
+![png](plots/output_2_2.png)
 
 
 
-![png](plots\output_2_3.png)
+![png](plots/output_2_3.png)
 
 
 
-![png](plots\output_2_4.png)
+![png](plots/output_2_4.png)
 
 
 
-![png](plots\output_2_5.png)
+![png](plots/output_2_5.png)
 
 
 
-![png](plots\output_2_6.png)
+![png](plots/output_2_6.png)
 
 
 
-![png](plots\output_2_7.png)
+![png](plots/output_2_7.png)
 
 
 
-![png](plots\output_2_8.png)
+![png](plots/output_2_8.png)
 
 
 
-![png](plots\output_2_9.png)
+![png](plots/output_2_9.png)
 
 
 
-![png](plots\output_2_10.png)
+![png](plots/output_2_10.png)
 
 
 
-![png](plots\output_2_11.png)
+![png](plots/output_2_11.png)
 
 
 
-![png](plots\output_2_12.png)
+![png](plots/output_2_12.png)
 
 
 
-![png](plots\output_2_13.png)
+![png](plots/output_2_13.png)
 
 
 
-![png](plots\output_2_14.png)
+![png](plots/output_2_14.png)
 
